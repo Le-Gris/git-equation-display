@@ -1,6 +1,7 @@
 import os
 import sys
 import re
+
 def to_git_equation(file):
     
     # Replacement string
